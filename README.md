@@ -1,30 +1,3 @@
-# Hi there, I'm SajeewaGodakanda 👋
-
-Welcome to my GitHub profile!
-
-- **Username**: SajeewaGodakanda
-- **Current Date & Time (UTC)**: 2025-10-17 05:25:56
-- **GitHub Login**: SajeewaGodakanda
-
----
-
-## 🚀 About Me
-
-I’m passionate about technology and open source. I love learning new things and collaborating with the community.
-
----
-
-## 📊 GitHub Stats
-
-![SajeewaGodakanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajeewaGodakanda&show_icons=true&theme=radical)
-
----
-
-## 📫 How to reach me
-
-Feel free to connect or reach out if you’d like to collaborate!
-
----
 <h1 align="center">Hi 👋, I'm Sajeewa Godakanda</h1>
 <h3 align="center">I'm a fullstack developer And SAP ABAP Developer from Sri Lanka</h3>
 
