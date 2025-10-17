@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajeewa Godakanda</h1>
+[<h1 align="center">Hi 👋, I'm Sajeewa Godakanda</h1>
 <h3 align="center">I'm a fullstack developer And SAP ABAP Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SajeewaGodakanda&label=Profile%20views&color=0e75b6&style=flat" alt="pasinduperera10" /> </p>
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SajeewaGodakanda&show_icons=true&locale=en" alt="SajeewaGodakanda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SajeewaGodakanda&" alt="SajeewaGodakanda" /></p>
+](https://www.linkedin.com/in/sajeewa-godakanda-4ba77a1a4/)
