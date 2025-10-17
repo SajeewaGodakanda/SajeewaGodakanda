@@ -25,7 +25,7 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="sap" width="50" height="50"/> 
   <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="abap" width="45" height="45"/>
-  <img src="https://www.svgrepo.com/show/373583/odata.svg" alt="odata" width="40" height="40"/> 
+  <img src="https://https://www.svgrepo.com/svg/362240/odata.svg" alt="odata" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/json.svg" alt="json" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 </p>
