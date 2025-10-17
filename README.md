@@ -19,6 +19,37 @@
 
 ---
 
+### 🎓 Certifications
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://1000logos.net/wp-content/uploads/2023/07/SAP-Logo.png" width="90" alt="SAP Logo"/><br>
+      <b>Introducing the RISE with SAP Methodology</b><br>
+      <a href="https://www.credly.com/badges/c6e67297-cb98-4f6b-ba2b-84c637db62b5/linked_in_profile" target="_blank">View Credential 🔗</a>
+    </td>
+    <td align="center">
+      <img src="https://1000logos.net/wp-content/uploads/2023/07/SAP-Logo.png" width="90" alt="SAP Logo"/><br>
+      <b>Integrating SAP Sales & Service Cloud with SAP S/4HANA</b><br>
+      <a href="https://www.credly.com/badges/524b48ec-1529-421e-b129-655bef7650a9/linked_in_profile" target="_blank">View Credential 🔗</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="90" alt="Microsoft Azure Logo"/><br>
+      <b>Microsoft Azure Fundamentals: Describe Cloud Concepts</b><br>
+      <a href="https://learn.microsoft.com/en-us/users/sajeewagodakanda-7000/achievements/juhyygrt?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">View Credential 🔗</a>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="90" alt="Microsoft Logo"/><br>
+      <b>Microsoft AI Fundamentals</b><br>
+      <a href="https://learn.microsoft.com/en-us/users/SajeewaGodakanda-7000/achievements/4GCWJ9PK?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">View Credential 🔗</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 🧩 **SAP & ERP Technologies**
